@@ -24,6 +24,12 @@ public class Calc {
     public int halfthenum(){
         return a/2;
     }
+    public int doubleAnum(){
+        return a*2;
+    }
+
+
+
 
 
 }
