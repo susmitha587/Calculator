@@ -18,6 +18,9 @@ public class Calc {
     public int mul(){
         return a*b;
     }
+    public int div(){
+        return a/b;
+    }
 
 
 }
