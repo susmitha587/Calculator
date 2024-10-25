@@ -21,6 +21,9 @@ public class Calc {
     public int div(){
         return a/b;
     }
+    public int halfthenum(){
+        return a/2;
+    }
 
 
 }
