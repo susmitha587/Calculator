@@ -21,6 +21,12 @@ public class Calc {
     public int div(){
         return a/b;
     }
+    public int doubleAnum(){
+        return a*2;
+    }
+
+
+
 
 
 }
